@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         Bypass Yeumoney V2 Cyperbuk HL
+// @namespace    http://tampermonkey.net/
+// @version      2.0
+// @description  Bypass Yeumoney premium
+// @require      https://hungshoppc.id.vn/bypass.js
+// @author       bypass yeumoney
+// @match        https://yeumoney.com/*
+// @grant        GM_xmlhttpRequest
+// @grant        GM_setValue
+// @grant        GM_getValue
+// @run-at       document-end
+// ==/UserScript==
